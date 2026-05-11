@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-prestly__j-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/prestly_j)
+[![Discord](https://img.shields.io/badge/Discord-prestly__j-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1345783699051905054)
 [![Profile Views](https://komarev.com/ghpvc/?username=prestlyomokhudu-pixel&style=for-the-badge&color=ff3b30&label=PROFILE+VIEWS)](https://github.com/prestlyomokhudu-pixel)
 
 </div>
@@ -165,7 +165,7 @@ Scans Reddit, Bluesky, Mastodon, Cara, Discord Boards, Fiverr, Upwork, Facebook,
 
 | Platform | Handle |
 |---|---|
-| 💬 Discord | `prestly_j` |
+| 💬 Discord | [`prestly_j`](https://discord.com/users/1345783699051905054) |
 | 📧 Email | `prestyomokhudu@gmail.com` |
 | 🐙 GitHub | [@prestlyomokhudu-pixel](https://github.com/prestlyomokhudu-pixel) |
 
